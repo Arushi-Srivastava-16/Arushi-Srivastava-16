@@ -1,69 +1,71 @@
-<h1 align="center">🌻 Hey there, I’m Arushi 🌻</h1>
-<p align="center">
-  <em>AI Explorer • Simulation Storyteller • Artistic Technologist</em><br>
-  <strong>Creating tech that feels, thinks, and uplifts.</strong>
-</p>
+<!-- github.com/Arushi-Srivastava-16/Arushi-Srivastava-16 → README.md -->
+
+<div align="center">
+
+# Arushi Srivastava
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=1200&color=6E40C9&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer+%7C+BITS+Pilani+Dubai;LLMs+·+RAG+·+Multi-Agent+Systems+·+Computer+Vision)](https://git.io/typing-svg)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
+[![IEEE 🏆](https://img.shields.io/badge/IEEE-Best%20Paper%20Award-00629B?style=flat&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://arushi-srivastava-16.github.io/ArushiSrivastava_Portfolio)
+
+</div>
 
 ---
 
-### 🌸 What I Love Building
-
-I'm most alive when I'm turning big ideas into real-world AI tools — the kind that **see**, **listen**, and **respond** to human needs.
-
-Whether it's helping someone *hear the world around them*, *visualize the risk of heatstroke in a city*, or *detect anomalies in breast scans* — I build to solve. But more than that... I build to *connect*.
-
-I'm currently obsessed with:
-
-* 🤖 **Explainable AI** that clinicians can trust
-* 🌆 **Digital Twins** to make cities more resilient
-* 🌍 **Climate-Aware Simulations** for urban impact
-* 🎨 Mixing **creativity** with **code** to tell compelling, meaningful stories
+> *There are 10 types of people in the world: those who understand binary, and those who don't.*
+>
+> I fell into the first group ... and then decided to make machines think.
 
 ---
 
-### 🌼 Projects That Define Me
+## Stack
 
-| 💡 Project                                                                 | ⚙️ Tech Stack                                   | 🎈 What Makes It Special                                              |
-| -------------------------------------------------------------------------- | ----------------------------------------------- | --------------------------------------------------------------------- |
-| **🎀 Breast Cancer Interpretability** <br> Vision Transformers + ProtoPNet | `ResNet50` `SimCLR` `Bayesian`                  | Merges precision & compassion — interpretable AI for diagnostics      |
-| **🌺 SpatialAudio** <br> Object Detection + TTS                            | `YOLOv8` `TTS` `NLP`                            | Brings the world alive through sound for the visually impaired        |
-| **🌍 SimCity Responder** *(WIP)* <br> Digital Twin + Simulation            | `Unity3D` `GIS` `OpenStreetMap` `TinyLMs` | Simulates real emergencies in Dubai — from heatstroke to urban fires  |
-| **📄 Ink & Insight** <br> Multimodal Document Checker                      | `OCR` `spaCy` `Flask`                           | Detects plagiarism in handwritten scripts with visual + semantic cues |
+<div align="center">
 
----
+| 🤖 AI / ML | ☁️ Cloud & MLOps | 🗄️ Data & Databases |
+|:---:|:---:|:---:|
+| ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) | ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) |
+| ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) | ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) | ![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white) |
+| ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) |
+| ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) | ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge) |
+| ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) | ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white) | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) |
 
-### 🪷 Me, Outside the Terminal
+| 🐍 Languages | 📊 Data & Viz |
+|:---:|:---:|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white) |
 
-I’m not just a builder.
-I’m a **singer**, **painter**, and **nature lover** who finds joy in creating experiences — whether that’s through color, voice, or ideas.
-
-💃 I dance ideas into rhythm.
-🎨 I paint thoughts that don't yet have words.
-🌿 I find logic in leaves and poetry in patterns.
-🔭 I teach kids that space and code are *cool*.
-
-If tech is the *how*, creativity is my *why*.
+</div>
 
 ---
 
-### 🎈 A Peek into My World (Coming Soon)
+## Stats
 
-> 🎜️ **Visual Portfolio Section** with snapshots from projects
-> 🧠 Whiteboard Notes, Design Sketches, Tiny AI Demos
-> 🎥 Mini video walkthroughs of simulations
-> ✨ Maybe a singing AI bot? (Just putting it out there 😉)
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Arushi-Srivastava-16&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Arushi-Srivastava-16&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Arushi-Srivastava-16&show_icons=true&hide_border=true" />
+</picture>
+&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Arushi-Srivastava-16&layout=compact&theme=github_dark&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Arushi-Srivastava-16&layout=compact&theme=default&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arushi-Srivastava-16&layout=compact&hide_border=true" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arushi-Srivastava-16/Arushi-Srivastava-16/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arushi-Srivastava-16/Arushi-Srivastava-16/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Arushi-Srivastava-16/Arushi-Srivastava-16/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
 
 ---
 
-### 🤝 Let’s Build, Share, and Dream
-
-You can find me at:
-
-* 📨 **Email**: [f20220188@dubai.bits-pilani.ac.in](mailto:f20220188@dubai.bits-pilani.ac.in)
-* 💼 [LinkedIn](https://linkedin.com/in/arushi-srivastava-49b333243)
-* 📁 [GitHub Projects](https://github.com/Arushi-Srivastava-16)
-
----
-
-> *“I don't just want to write code that works — I want to write code that makes life better.”*
-> — Arushi 🌻
+<div align="center">
+<sub>Graduating June 2026 · Open to Applied AI / ML Engineering roles globally · Dubai 🇦🇪</sub>
+</div>
