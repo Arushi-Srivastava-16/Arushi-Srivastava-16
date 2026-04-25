@@ -4,10 +4,10 @@
 
 # Arushi Srivastava
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=1200&color=6E40C9&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer+%7C+BITS+Pilani+Dubai;LLMs+·+RAG+·+Multi-Agent+Systems+·+Computer+Vision)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=1200&color=6E40C9&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer+%7C+BITS+Pilani+Dubai;Intern+%40+MSD%2C+Dubai+%F0%9F%87%A6%F0%9F%87%AA;LLMs+%C2%B7+RAG+%C2%B7+Multi-Agent+Systems+%C2%B7+Computer+Vision)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
-[![IEEE 🏆](https://img.shields.io/badge/IEEE-Best%20Paper%20Award-00629B?style=flat&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/arushi-srivastava-49b333243)
+[![IEEE 🏆](https://img.shields.io/badge/IEEE-Published%20Researcher-00629B?style=flat&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/11412013)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://arushi-srivastava-16.github.io/ArushiSrivastava_Portfolio)
 
 </div>
@@ -36,6 +36,31 @@
 |:---:|:---:|
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white) |
 
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Stack |
+|:---|:---|:---|
+| [🛡️ Sentinel AI](https://github.com/Arushi-Srivastava-16/Sentinel-AI) | Real-time AI agent governance — dual-path engine (rule-based <10ms + LLM cascade <500ms), Redis/Neo4j audit trail, live React dashboard | FastAPI · Neo4j · Redis · Llama · Claude |
+| [💰 FinanceRAG](https://github.com/Arushi-Srivastava-16/FinanceRAG) | Multi-agent trading intelligence — RAG + Sentiment/Technical/Risk agents, RSI/MACD, ChromaDB vector search | Multi-Agent · RAG · VADER · ChromaDB · Gemini |
+| [💊 Pharma Intelligence Tracker](https://github.com/Arushi-Srivastava-16/pharma-intelligence-tracker) | Cloud-native BI pipeline — OpenFDA/ClinicalTrials ingestion, FinBERT scoring, BigQuery + [Live Looker Dashboard](https://lookerstudio.google.com/u/0/reporting/c1132672-6479-4478-ad0c-746ab51cad1b/page/1gbtF) | GCP · BigQuery · FinBERT · Looker Studio |
+| [⚖️ RegLaw](https://github.com/Arushi-Srivastava-16/RegLaw) | Regulatory compliance AI — SEC/CFTC/FCA filing search, RSS scraping, automated email reporting | FastAPI · ChromaDB · React · Python |
+| [🔮 SpatialAudio](https://github.com/Arushi-Srivastava-16/SpatialAudio) | Assistive AI for the visually impaired — YOLOv8 spatial narration + LLM Q&A in real time | YOLOv8 · OpenCV · TTS · GPT |
+| [🧠 MGHall](https://github.com/Arushi-Srivastava-16/MGHall-Hallucination-Detection) | Hallucination detection framework for LLMs | Python · LLMs · NLP |
+
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Arushi-Srivastava-16&theme=radical&no-frame=true&row=1&column=7&margin-w=8" />
 </div>
 
 ---
